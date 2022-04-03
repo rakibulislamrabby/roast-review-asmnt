@@ -1,0 +1,50 @@
+[
+        { 
+            "id": 1,
+            "name": "J. Breeden",
+            "comment":"This is Fantastic watch very comfortable to use raguler",
+            "photo": "https://images.pexels.com/photos/1456706/pexels-photo-1456706.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" 
+        },
+        { 
+            "id": 2, 
+            "name": "Dennis A", 
+            "comment": "This is Fantastic watch very comfortable to use raguler", 
+            "photo": "https://images.pexels.com/photos/1456705/pexels-photo-1456705.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+        },
+        {
+             "id": 3,
+            "name": "Russel", 
+            "comment":"This is Fantastic watch very comfortable to use raguler",
+            "photo": "https://images.pexels.com/photos/4313481/pexels-photo-4313481.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+        },
+        { 
+            "id": 4, 
+            "name": "Smith", 
+            "comment":"This is Fantastic watch very comfortable to use raguler",
+            "photo": "https://images.pexels.com/photos/786003/pexels-photo-786003.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" },
+        { 
+            "id": 5, 
+            "name": "Alen Walker", 
+            "comment": "This is Fantastic watch very comfortable to use raguler",
+            "photo": "https://images.pexels.com/photos/4277508/pexels-photo-4277508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+        },
+        { 
+            "id": 6, 
+            "name": "E. Simmons", 
+            "comment": "This is Fantastic watch very comfortable to use raguler",
+            "photo": "https://images.pexels.com/photos/5584504/pexels-photo-5584504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+        },
+        { 
+            "id": 7, 
+            "name": "Paul M. Ward", 
+            "comment": "This is Fantastic watch very comfortable to use raguler",
+            "photo": "https://images.pexels.com/photos/8859002/pexels-photo-8859002.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+        },
+        { 
+            "id": 8, 
+            "name": "David M. Howard", 
+            "comment":"This is Fantastic watch very comfortable to use raguler",
+            "photo": "https://images.pexels.com/photos/637076/pexels-photo-637076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+        }
+        
+    ]
