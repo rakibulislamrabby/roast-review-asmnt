@@ -9,14 +9,14 @@ const Home = () => {
     return (
         <div className='container '>
             <div className='row mt-5'>
-                <div className='col-lg-6 ps-5'>
+                <div className='col-lg-6 ps-5 pb-5'>
                     <h1>Your next Watch is Best in <span className='text-danger'>your hand</span>   </h1>
 
                     <p>Rather than be your run-of-the-mill fashion Chrono, the new Curren is set to be your “go anywhere, do anything” watch with a touch of class.Now, usually, if you try to jam too many characters into one movie, you end up with a jumbled mess that rarely achieves anything it sets out to do.Will a watch be the same?.</p>
                     <button className='btn btn-danger'>Live Demo</button>
                 </div>
-                <div className='col-lg-4 ps-5'>
-                    <img className='w-100 round' src="https://images.pexels.com/photos/8839604/pexels-photo-8839604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" />
+                <div className='col-lg-5 ps-5'>
+                    <img className='w-75 ms-5 round' src="https://images.pexels.com/photos/8839604/pexels-photo-8839604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" />
                 </div>
 
             </div>

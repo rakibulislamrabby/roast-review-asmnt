@@ -5,7 +5,9 @@ import "./Header.css"
 const Header = () => {
     return (
         <div className="header-container">
-            <h2 className='ms-3 text-danger'>Roast-Review</h2>
+            <Link className='text-decoration-none' to="/home">
+                <h2 className='ms-3 text-danger '>Roast-Review</h2>
+            </Link>
             <nav className='link-container'>
                 <Link to="/home">HOME</Link>
                 <Link to="/reviews">REVIEWS</Link>

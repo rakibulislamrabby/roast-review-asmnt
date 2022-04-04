@@ -1,3 +1,5 @@
+import { faStar } from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
 
 const HomeReviews = (props) => {
@@ -10,6 +12,13 @@ const HomeReviews = (props) => {
                 <div className="card-body">
                     <h5 className="card-title">Name: {name}</h5>
                     <p className="card-text">{comment}</p>
+                </div>
+                <div className='ps-3 pb-3'>
+                    <FontAwesomeIcon className='text-warning' icon={faStar}></FontAwesomeIcon>
+                    <FontAwesomeIcon className='text-warning' icon={faStar}></FontAwesomeIcon>
+                    <FontAwesomeIcon className='text-warning' icon={faStar}></FontAwesomeIcon>
+                    <FontAwesomeIcon className='text-warning' icon={faStar}></FontAwesomeIcon>
+                    <FontAwesomeIcon icon={faStar}></FontAwesomeIcon>
                 </div>
             </div>
         </div >
