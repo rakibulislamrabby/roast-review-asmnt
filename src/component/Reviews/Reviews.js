@@ -5,8 +5,8 @@ import Review from '../Review/Review';
 const Reviews = () => {
     const [reviews, setreviews] = useReviews();
     return (
-        <div className='container'>
-            <h1 className='text-center'>Review section</h1>
+        <div className='container mt-5'>
+            <h3 className='text-center mb-4 '> Customer Review section</h3>
             <div className='col-lg-12 '>
                 <div className='row '>
                     {

@@ -3,6 +3,7 @@
     justify-content: space-around;
     align-items: center;
     padding-top: 10px;
+    
 }
 .link-container{
     /* margin-right: 50px; */
@@ -12,4 +13,7 @@
     margin-right: 25px;
     font-weight: bold;
     color: black;
+}
+.link-container a:hover{
+    color: rgb(217, 5, 5);
 }

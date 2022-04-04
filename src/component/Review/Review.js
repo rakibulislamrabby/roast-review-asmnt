@@ -6,7 +6,7 @@ const Review = (props) => {
     return (
         <div className='col-lg-4 float-left mb-5'>
             <div className="card h-100">
-                <img src={photo} className="card-img-top h-100" alt="..." />
+                <img src={photo} className="card-img-top" alt="..." />
                 <div className="card-body">
                     <h5 className="card-title">Name: {name}</h5>
                     <p className="card-text">{comment}</p>

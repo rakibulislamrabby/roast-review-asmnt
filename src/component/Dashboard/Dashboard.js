@@ -5,37 +5,37 @@ const data = [
         "month": "Mar",
         "investment": 100000,
         "sell": 241,
-        "revenue": 10401
+        "revenue": 104010
     },
     {
         "month": "Apr",
         "investment": 200000,
         "sell": 423,
-        "revenue": 24500
+        "revenue": 180500
     },
     {
         "month": "May",
         "investment": 500000,
         "sell": 726,
-        "revenue": 67010
+        "revenue": 480001
     },
     {
         "month": "Jun",
         "investment": 500000,
         "sell": 529,
-        "revenue": 40405
+        "revenue": 400405
     },
     {
         "month": "Jul",
         "investment": 600000,
         "sell": 601,
-        "revenue": 50900
+        "revenue": 509000
     },
     {
         "month": "Aug",
         "investment": 700000,
         "sell": 670,
-        "revenue": 61000
+        "revenue": 610000
     }
 ]
 const Dashboard = () => {
@@ -55,7 +55,7 @@ const Dashboard = () => {
                     <p className='text-center text-primary fw-bold'>Investment Vs Revenue</p>
                     <AreaChart width={500} height={300} data={data}>
                         <Area dataKey={"investment"}></Area>
-                        <Area dataKey={"revenue"} stroke="#82ca9d" fill="#82ca9d"></Area>
+                        <Area dataKey={"revenue"} stroke="#82ca9d" fill="#ffc658"></Area>
                         <XAxis dataKey="month" />
                         <YAxis></YAxis>
                         <Tooltip></Tooltip>

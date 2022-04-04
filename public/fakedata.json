@@ -2,49 +2,50 @@
         { 
             "id": 1,
             "name": "J. Breeden",
-            "comment":"This is Fantastic watch very comfortable to use raguler",
+            "comment":"I just want to say that these CURREN watches are awesome !!! I have bought five in the past few months and had no problems with them . They do come in a little big around the wrist . ",
             "photo":"https://images.pexels.com/photos/5668885/pexels-photo-5668885.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"  
         },
         { 
             "id": 2, 
+            "name": "Elyssa Perry", 
+            "comment":"This is Fantastic watch very comfortable to use raguler",
+            "photo": "https://images.pexels.com/photos/3756681/pexels-photo-3756681.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+        },
+        { 
+            "id": 3, 
             "name": "Dennis A", 
             "comment": "This is Fantastic watch very comfortable to use raguler", 
             "photo": "https://images.pexels.com/photos/3782210/pexels-photo-3782210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
         },
         {
-             "id": 3,
+             "id": 4,
             "name": "Russel", 
             "comment":"This is Fantastic watch very comfortable to use raguler",
             "photo":  "https://images.pexels.com/photos/3778680/pexels-photo-3778680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
         },
         { 
-            "id": 4, 
+            "id": 5, 
             "name": "Smith", 
             "comment":"This is Fantastic watch very comfortable to use raguler",
             "photo": "https://images.pexels.com/photos/5648407/pexels-photo-5648407.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" },
         { 
-            "id": 5, 
+            "id": 6, 
             "name": "Alen Walker", 
             "comment": "This is Fantastic watch very comfortable to use raguler",
             "photo": "https://images.pexels.com/photos/3771807/pexels-photo-3771807.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
         },
         { 
-            "id": 6, 
+            "id": 7, 
             "name": "E. Simmons", 
             "comment": "This is Fantastic watch very comfortable to use raguler",
             "photo": "https://images.pexels.com/photos/3932354/pexels-photo-3932354.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
         },
         { 
-            "id": 7, 
+            "id": 8, 
             "name": "Paul M. Ward", 
             "comment": "This is Fantastic watch very comfortable to use raguler",
             "photo": "https://images.pexels.com/photos/7109087/pexels-photo-7109087.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
-        },
-        { 
-            "id": 8, 
-            "name": "Elyssa Perry", 
-            "comment":"This is Fantastic watch very comfortable to use raguler",
-            "photo": "https://images.pexels.com/photos/3756681/pexels-photo-3756681.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
         }
+        
         
     ]
