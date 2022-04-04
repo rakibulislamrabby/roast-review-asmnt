@@ -22,7 +22,7 @@ const Home = () => {
             </div>
 
             <div className='col-lg-12 my-5'>
-                <h3 className='text-center mb-4'>Customer Review</h3>
+                <h3 className='text-center mb-4'>Customer Review (3)</h3>
                 <div className='row'>
                     {
                         threeReviews.map(item => <HomeReviews
